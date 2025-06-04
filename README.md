@@ -1,7 +1,7 @@
 ### Olá, Eu sou Ravi Almeida Barbosa Lima 👋
 
 <p>
-  Sou estudante de Sistema de informação na CESAR SCHOOL, apaixonado por Desenvolvimento Full-stack. Atualmente, estou focado no curso da faculdade, mas tambem buscando oportunidades na área de tecnologia. Adoro aprender e construir coisas novas!
+  Sou estudante de Sistema de informação na CESAR SCHOOL, apaixonado por Desenvolvimento Full-stack. Atualmente, estou focado no curso da faculdade, mas buscando oportunidades na área de tecnologia. Adoro aprender e construir coisas novas!
 </p>
 
 ---
